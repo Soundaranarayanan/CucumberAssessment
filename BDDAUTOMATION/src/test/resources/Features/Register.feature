@@ -11,4 +11,4 @@ Feature: Registration Functionality
 
     Examples:
       |firstName |lastName |email                 |telephone  |password  |confirmPassword |
-      |giriii   |M        |2k21eee32@kiot.ac.in  |1236587890 |Kiot1234@ |Kiot1234@       |
+      |guru   |M        |2k21eee27@kiot.ac.in  |1236597890 |Kiot1234@ |Kiot1234@       |
